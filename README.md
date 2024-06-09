@@ -3,7 +3,7 @@
 My name is Vivek Patel, I am a Bachealor's of Science student at Indiana University Bloomington studying computer science. I am personally interested in **software engineering**,**fullstack development**,**data structures and algorithms**, and **programming in general**!
 
 ___
-These are some of the skills that I possess.
+These are some of the skills that I possess.<br/>
 **In no way does it mean that I am limited to just these skills, I am always looks to learn more skills!**
 
 #### Programming Languages
@@ -22,8 +22,10 @@ These are some of the skills that I possess.
 ![Others](https://skillicons.dev/icons?i=aws)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,regex,vscode,visualstudio,linux,bash,vim,emacs,powershell,postman,vite,latex,)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,regex,vscode,visualstudio,linux,bash,vim,emacs,powershell,postman,vite,latex)
+
+####Github Stats
 ___
 
-##Github Stats
+
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekPatel21&show_icons=true&theme=radical)
