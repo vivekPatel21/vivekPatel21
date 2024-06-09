@@ -3,19 +3,27 @@
 My name is Vivek Patel, I am a Bachealor's of Science student at Indiana University Bloomington studying computer science. I am personally interested in **software engineering**,**fullstack development**,**data structures and algorithms**, and **programming in general**!
 
 ___
+These are some of the skills that I possess.
+**In no way does it mean that I am limited to just these skills, I am always looks to learn more skills!**
 
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=java,js,ts,python,c,cpp)
 
-<!--
-**vivekPatel21/vivekPatel21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,nextjs,html,css,)
 
-Here are some ideas to get you started:
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,graphql,jest,django)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mongodb,mysql)
+
+#### DevOps & Cloud
+![Others](https://skillicons.dev/icons?i=aws)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,regex,vscode,visualstudio,linux,bash,vim,emacs,powershell,postman,vite,latex,)
+___
+
+##Github Stats
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekPatel21&show_icons=true&theme=radical)
