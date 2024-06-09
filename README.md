@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 My name is Vivek Patel, I am a Bachealor's of Science student at Indiana University Bloomington studying computer science. I am personally interested in **software engineering**,**fullstack development**,**data structures and algorithms**, and **programming in general**!
-
+___
+## Connect With me
 ___
 These are some of the skills that I possess.<br/>
 **In no way does it mean that I am limited to just these skills, I am always looks to learn more skills!**
@@ -10,7 +11,7 @@ These are some of the skills that I possess.<br/>
 ![Languages](https://skillicons.dev/icons?i=java,js,ts,python,c,cpp)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,nextjs,html,css,)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,nextjs,html,css)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,graphql,jest,django)
