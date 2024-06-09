@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Vivek Patel, I am a Bachealor's of Science student at Indiana University Bloomington studying computer science. I am personally interested in **software engineering**,**fullstack development**,**data structures and algorithms**, and **programming in general**!
+
+___
+
+
 <!--
 **vivekPatel21/vivekPatel21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
