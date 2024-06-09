@@ -24,7 +24,7 @@ These are some of the skills that I possess.<br/>
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,regex,vscode,visualstudio,linux,bash,vim,emacs,powershell,postman,vite,latex)
 
-#### Github Stats
+### Github Stats
 ___
 
 
