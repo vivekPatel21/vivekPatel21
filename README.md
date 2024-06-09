@@ -3,6 +3,8 @@
 My name is Vivek Patel, I am a Bachealor's of Science student at Indiana University Bloomington studying computer science. I am personally interested in **software engineering**,**fullstack development**,**data structures and algorithms**, and **programming in general**!
 ___
 ## Connect With me
+
+[<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/patevig/) &nbsp;
 ___
 These are some of the skills that I possess.<br/>
 **In no way does it mean that I am limited to just these skills, I am always looks to learn more skills!**
