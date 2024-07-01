@@ -10,7 +10,7 @@ These are some of the skills that I possess.<br/>
 **In no way does it mean that I am limited to just these skills, I am always looks to learn more skills!**
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,csharp)
+![Languages](https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,c#)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,nextjs,html,css)
