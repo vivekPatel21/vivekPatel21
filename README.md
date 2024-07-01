@@ -19,7 +19,7 @@ These are some of the skills that I possess.<br/>
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,graphql,jest,django)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mongodb,mysql)
+![Database & Tools](https://skillicons.dev/icons?i=mongodb,mysql,cmake,npm)
 
 #### DevOps & Cloud
 ![Others](https://skillicons.dev/icons?i=aws)
